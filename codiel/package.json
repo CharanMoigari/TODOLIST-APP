@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "expressjs": "^1.0.1",
+    "init": "^0.1.2",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.3.4"
+  },
+  "name": "codiel",
+  "version": "1.0.0",
+  "description": "TODOLIST",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charan",
+  "license": "ISC"
+}

@@ -1,0 +1,65 @@
+
+.todo-list{
+    margin:auto;
+    width:90%;
+}
+ #task-info{
+    width: 100%;
+    background-color:rgb(125, 159, 175);
+    border-radius: 5px;
+    box-shadow: 8px 8px 5px black;
+    margin-top:2%;
+
+} 
+.row{
+width:100%;
+margin-top:2%;
+margin-left:5%;
+}
+ #discription{
+    width:90%;
+    margin-left:4.5%;
+    margin-top: 2%;
+}
+#category{
+    width:40%;
+}
+#duedate{
+    width:40%;
+}  
+#heading{
+    text-align: center;
+    font-size: large;
+    color:azure;
+}
+
+#deletetask div{
+    display:flex;
+}
+.btn{
+    font-family:'Times New Roman', Times, serif;
+    margin-left:40%;
+    margin-top: 1.5%;
+}
+table p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1.5rem;
+    color:aliceblue;
+}
+#heading2{
+    text-align: center;
+    color:azure;
+}
+#tasklist{
+    background-color:rgb(105, 110, 182);
+    box-shadow:8px 8px 5px black;
+}
+table th{
+    font-size: x-large;
+}
+td input{
+    font-size: large;
+}
+#delete{
+    margin-top:-0.4%;
+}
